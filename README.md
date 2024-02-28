@@ -9,6 +9,7 @@ After adding all the appropriate code to your webpack, database, and install js 
 ## Usage
 Link to application on Render: https://pwa-text-editor-qe6n.onrender.com/
 
+![TextEditorinBrowser](images/TextEditorinBrowser.png)
 ![JATEApplication](images/JATEApplication.png)
 ![ServiceWorker](images/ServiceWorker.png)
 ![Manifest](images/Manifest.png)
